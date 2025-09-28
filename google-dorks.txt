@@ -1,2 +1,2 @@
-site:*<*.target.com intext:"login" | intitle:"login" | inurl:"login" | intext:"username" | intitle:"username" | inurl:"username" | intext:"password" | intitle:"password" | inurl:"password"
+site:*<*.target.com intext:"login" | intitle:"login" | inurl:"login" | intext:"username" | intitle:"username" | inurl:"username" | intext:"password" | intitle:"password" | inurl:"password" | intext:"proftpd.conf" "index of" | inurl:"cgi-bin/koha" | intext:"aws_access_key_id" | intext:"aws_secret_access_key" filetype:json | filetype:yaml | intext:"siemens" & inurl:"/portal/portal.mwsl" | intitle:index of /etc/ssh | intitle:index of /etc/openldap | intitle:"/zircote/swagger-php" | intext:"dhcpd.conf" "index of" | 
 
